@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Longwei @LongweiZh
 - 👀 I’m interested in neuroscience and bioinformatics.
 - 🌱 I’m currently learning python and R.
-- 📫 Email: lz539@georgetown.edu
+- 📫 Email: longweizh@yahoo.com
 
 <!---
 LongweiZh/LongweiZh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
