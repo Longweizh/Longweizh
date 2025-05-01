@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Longwei @LongweiZh
+- 👋 Hi, I’m Longwei @Longweizh
+- 🏫 I'm a PhD student in University of Illinois Urbana-Champaign.
 - 👀 I’m interested in neuroscience and bioinformatics.
 - 🌱 I’m currently learning python and R.
-- 📫 Email: longweizh@yahoo.com
+- 📫 Email: longwei2@illinois.edu
 
 <!---
 LongweiZh/LongweiZh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
