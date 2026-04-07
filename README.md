@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Longwei @Longweizh
 - 🏫 I'm a PhD student in University of Illinois Urbana-Champaign.
-- 👀 I’m interested in neuroscience and bioinformatics.
-- 🌱 I’m currently learning python and R.
+- 👀 I’m interested in bioinformatics.
 - 📫 Email: longwei2@illinois.edu
 
 <!---
